@@ -21,5 +21,8 @@
   "peacock.color": "#1ff53e",
   "liveServer.settings.port": 5502,
   "editor.formatOnSave": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.bracketSameLine": true,
+  "prettier.printWidth": 100,
+  "prettier.htmlWhitespaceSensitivity": "ignore"
 }
